@@ -1,10 +1,10 @@
 [
   {
     "vault": "0x63E37028c1740303e8456962E6ddf98359FE0BDc",
-    "min_value": 10*18
+    "min_value": 10000000000000000000
   },
   {
     "vault": "0x49561C4a905f7acCdaCAec5e3C17113d5f1C5a3b",
-    "min_value": 10*6
+    "min_value": 10000000
   }
 ]
