@@ -2,5 +2,9 @@
   {
     "vault": "0x63e37028c1740303e8456962e6ddf98359fe0bdcssss",
     "min_value": 100
+  },
+  {
+    "vault": "0xs",
+    "min_value": 100
   }
 ]
